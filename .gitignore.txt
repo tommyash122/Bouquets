@@ -1,0 +1,5 @@
+# Directories
+.idea/
+_pycache_/
+build/
+venv/
